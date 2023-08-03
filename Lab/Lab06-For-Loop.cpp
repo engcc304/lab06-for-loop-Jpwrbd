@@ -16,7 +16,6 @@
         Series: 8 6 4 2 0
 */
 #include <stdio.h>
-
 int main() {
     int N, i ;
     printf("Enter value: ") ;
